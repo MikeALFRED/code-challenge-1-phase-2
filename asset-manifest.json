@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/code-challenge-1-phase-2/static/css/main.d070eabf.css",
+    "main.js": "/code-challenge-1-phase-2/static/js/main.385b0a78.js",
+    "static/js/453.d3943c81.chunk.js": "/code-challenge-1-phase-2/static/js/453.d3943c81.chunk.js",
+    "index.html": "/code-challenge-1-phase-2/index.html",
+    "main.d070eabf.css.map": "/code-challenge-1-phase-2/static/css/main.d070eabf.css.map",
+    "main.385b0a78.js.map": "/code-challenge-1-phase-2/static/js/main.385b0a78.js.map",
+    "453.d3943c81.chunk.js.map": "/code-challenge-1-phase-2/static/js/453.d3943c81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d070eabf.css",
+    "static/js/main.385b0a78.js"
+  ]
+}
