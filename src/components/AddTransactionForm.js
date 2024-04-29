@@ -21,7 +21,7 @@ function AddTransactionForm({onAddTransaction}) {
             <form onSubmit={handleSubmit}>
               <div className="row  p-4 m-4">
                 <div className="col-3 mx-auto">
-                      <input className="form-control "  type="date "  placeholder="date" value={date}
+                      <input className="form-control "  type="date"  placeholder="date" value={date}
                        onChange={(event)=> setDate(event.target.value)} required />
                 </div>
                 <div className="col-3 mx-auto">
